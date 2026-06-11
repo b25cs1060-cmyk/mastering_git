@@ -1,3 +1,3 @@
  mastering_git
-ADDED A FEATURE BRANCH
-NEW TEXT
+A new line is being added over here
+This commit comes from the branch branch 1
