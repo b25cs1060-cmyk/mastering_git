@@ -1,3 +1,3 @@
  mastering_git
-ADDED A FEATURE BRANCH
-NEW TEXT
+A new line is being added over here
+These changes are being made into the branch2
