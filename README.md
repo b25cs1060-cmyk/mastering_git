@@ -1,2 +1,3 @@
  mastering_git
 ADDED A FEATURE BRANCH
+NEW TEXT
